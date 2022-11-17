@@ -2,9 +2,9 @@
 you can use it for stock. 
 
 
-#MVC
-#JSON 
-#API 
-#OPEN URL
-#CUSTOM TABLE VİEW CELL 
+<h1>MVC
+<h1>API
+<h1>JSON
+<h1>OPEN URL
+<h1>CUSTOM TABLE VİEW CELL 
 
